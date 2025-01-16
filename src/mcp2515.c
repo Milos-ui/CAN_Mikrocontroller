@@ -21,7 +21,8 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 #include <stdbool.h>
 #include <hardware/spi.h>
 #include "register.h"
-
+#include "hardware/gpio.h"
+#include <pico/stdlib.h>
 // RTS it not working
 
 
