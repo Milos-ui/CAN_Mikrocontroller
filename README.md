@@ -91,7 +91,6 @@ Der Raspberry Pi Pico wurde als Mikrocontroller für die Kommunikation mit dem M
    - Power- und Ground-Verbindungen wurden hergestellt.
    - Weitere Signalleitungen wie SCK, MOSI, MISO und CS wurden korrekt verbunden. 
 
-<img title="" src="file:///Users/johnyhamsik12/Downloads/IMG_3612.jpeg" alt="IMG_3612.jpeg" width="227">
 
 1. **Software-Konfiguration**:
    - Der Mikrocontroller wurde mit der notwendigen Firmware versehen.
@@ -104,9 +103,6 @@ Der Raspberry Pi Pico wurde als Mikrocontroller für die Kommunikation mit dem M
 - **Problem**: Datenverlust bei der Übertragung.
   - **Lösung**: Anpassung der Puffergröße und Nutzung eines Logikanalysators.
 
-<img title="" src="file:///Users/johnyhamsik12/Downloads/IMG_3613%202.jpeg" alt="IMG_3613 2.jpeg" width="202">
-
-<img title="" src="file:///Users/johnyhamsik12/Downloads/IMG_3614.jpeg" alt="IMG_3614.jpeg" width="192">
 
 ### **Logic Analyzer**
 
@@ -137,7 +133,5 @@ Ein **Logic Analyzer** ist ein Werkzeug zur Analyse digitaler Signale. Er erfass
 
 - Kann nur digitale Signale erfassen (keine analogen Daten).
 - Je nach Modell kann die Kanalkapazität begrenzt sein.
-
-<img src="file:///Users/johnyhamsik12/Desktop/TGM%205BHIT/SYT/CAN_Mikrocontroller/logic_analyzer.png" title="" alt="logic_analyzer.png" width="380">
 
 [Logic Analyzer &#8226; Wolles Elektronikkiste](https://wolles-elektronikkiste.de/logic-analyzer#:~:text=Kurz%20gesagt%3A%20Ein%20Logic%20Analyzer,Zust%C3%A4nde%20HIGH%20und%20LOW%20kennt.)
